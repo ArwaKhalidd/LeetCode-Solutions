@@ -23,14 +23,14 @@ Advanced SQL logic
 
 # Goals of This Repository
 
-Practice and reinforce SQL concepts
+- Practice and reinforce SQL concepts
 
-Build a reference for common SQL patterns
+- Build a reference for common SQL patterns
 
 # Prepare for:
 
-Technical interviews
+- Technical interviews
 
-Data analyst roles
+- Data analyst roles
 
-Backend development tasks
+- Backend development tasks
