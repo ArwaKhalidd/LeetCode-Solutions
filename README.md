@@ -7,19 +7,13 @@ The solutions cover a wide range of SQL concepts, from basic queries to advanced
 
 The SQL 50 plan on LeetCode is a curated list of 50 SQL problems that progressively build skills in:
 
-Data retrieval
-
-Filtering and sorting
-
-Aggregations
-
-Joins
-
-Subqueries
-
-Window functions
-
-Advanced SQL logic
+- Data retrieval
+- Filtering and sorting
+- Aggregations
+- Joins
+- Subqueries
+- Window functions
+- Advanced SQL logic
 
 # Goals of This Repository
 
